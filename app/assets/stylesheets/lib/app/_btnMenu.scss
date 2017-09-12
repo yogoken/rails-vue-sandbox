@@ -34,3 +34,10 @@
     transition: background .2s ease-in-out;
   }
 }
+
+
+@media screen and (max-width: 414px) {
+  div {
+    width: 414px;
+  }
+}
