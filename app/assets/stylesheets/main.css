@@ -241,7 +241,7 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px;
     background: url("https://s3.us-east-2.amazonaws.com/smarterrand01/uploads/home/image/8/provider02.png") no-repeat;
-    background-size: cover; }
+    background-size: 190px 285px; }
     #store-screenshot .screenshot_first:last-child {
       margin-right: 15px; }
   #store-screenshot .screenshot_second {
@@ -249,7 +249,7 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px;
     background: url("https://s3.us-east-2.amazonaws.com/smarterrand01/uploads/home/image/9/provider04.png") no-repeat;
-    background-size: cover; }
+    background-size: 190px 285px; }
     #store-screenshot .screenshot_second:last-child {
       margin-right: 15px; }
   #store-screenshot .screenshot_third {
@@ -257,7 +257,7 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px;
     background: url("https://s3.us-east-2.amazonaws.com/smarterrand01/uploads/home/image/10/user_001.png") no-repeat;
-    background-size: cover; }
+    background-size: 190px 285px; }
     #store-screenshot .screenshot_third:last-child {
       margin-right: 15px; }
   #store-screenshot .screenshot_fourth {
@@ -265,7 +265,7 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px;
     background: url("https://s3.us-east-2.amazonaws.com/smarterrand01/uploads/home/image/11/user_003.png") no-repeat;
-    background-size: cover; }
+    background-size: 190px 285px; }
     #store-screenshot .screenshot_fourth:last-child {
       margin-right: 15px; }
   #store-screenshot .screenshot_fifth {
@@ -273,7 +273,7 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px;
     background: url("https://s3.us-east-2.amazonaws.com/smarterrand01/uploads/home/image/12/provider05.png") no-repeat;
-    background-size: cover; }
+    background-size: 190px 285px; }
     #store-screenshot .screenshot_fifth:last-child {
       margin-right: 15px; }
 
