@@ -1,0 +1,36 @@
+$copyright: "© copyright";
+$store-font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Meiryo, "メイリオ", sans-serif;
+$app-font-family: "AvenirNext-Heavy";
+$menu-header: "MENU";
+
+$balloonColor: #bdbdbd;
+$bgColor: #fff;
+$btnMenuColor: #000;
+$menuHeaderTxtColor: #bdbdbd;
+$menuBorderColor: #bdbdbd;
+$txtColor: #000;
+body[data-app="false"] {
+  height: 100%;
+  font-family: $store-font-family;
+}
+
+#store {
+  padding-bottom: 200px;
+}
+
+%defaultSection {
+  position: relative;
+  padding: 15px;
+  border-bottom: solid 1px #cdcdcd;
+  color: #999;
+  overflow: hidden;
+
+  .ttl {
+    color: #000;
+    font-size: 1.5rem;
+  }
+
+  .txt {
+    margin-top: 14px;
+  }
+}
