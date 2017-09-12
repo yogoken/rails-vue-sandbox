@@ -189,6 +189,8 @@ body[data-app="false"] {
   border-bottom: solid 1px #cdcdcd;
   overflow: hidden; }
   #store-header .icon {
+    background: url("smart_errand.png") no-repeat;
+    background-size: cover;
     border: solid 1px #cdcdcd;
     border-radius: 21px;
     width: 100px;
@@ -233,6 +235,46 @@ body[data-app="false"] {
     border: solid 1px #cdcdcd;
     margin-left: 15px; }
     #store-screenshot .screenshot:last-child {
+      margin-right: 15px; }
+  #store-screenshot .screenshot_first {
+    display: inline-block;
+    border: solid 1px #cdcdcd;
+    margin-left: 15px;
+    background: url("provider02.png") no-repeat;
+    background-size: cover; }
+    #store-screenshot .screenshot_first:last-child {
+      margin-right: 15px; }
+  #store-screenshot .screenshot_second {
+    display: inline-block;
+    border: solid 1px #cdcdcd;
+    margin-left: 15px;
+    background: url("provider04.png") no-repeat;
+    background-size: cover; }
+    #store-screenshot .screenshot_second:last-child {
+      margin-right: 15px; }
+  #store-screenshot .screenshot_third {
+    display: inline-block;
+    border: solid 1px #cdcdcd;
+    margin-left: 15px;
+    background: url("user_001.png") no-repeat;
+    background-size: cover; }
+    #store-screenshot .screenshot_third:last-child {
+      margin-right: 15px; }
+  #store-screenshot .screenshot_fourth {
+    display: inline-block;
+    border: solid 1px #cdcdcd;
+    margin-left: 15px;
+    background: url("user_003.png") no-repeat;
+    background-size: cover; }
+    #store-screenshot .screenshot_fourth:last-child {
+      margin-right: 15px; }
+  #store-screenshot .screenshot_fifth {
+    display: inline-block;
+    border: solid 1px #cdcdcd;
+    margin-left: 15px;
+    background: url("provider05.png") no-repeat;
+    background-size: cover; }
+    #store-screenshot .screenshot_fifth:last-child {
       margin-right: 15px; }
 
 #store-description {
