@@ -39,8 +39,8 @@
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("/app/assets/images/provider02.png") no-repeat;
-    background-size: cover;
+/*    background: url("./provider02.png") no-repeat;
+    background-size: cover;*/
 
     &:last-child {
       margin-right: 15px;
@@ -61,7 +61,7 @@
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("/assets/images/user_001.png") no-repeat;
+    background: url("./user_001.png") no-repeat;
     background-size: cover;
 
     &:last-child {
@@ -72,7 +72,7 @@
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("assets/images/user_003.png") no-repeat;
+    background: url("./user_003.png") no-repeat;
     background-size: cover;
 
     &:last-child {
@@ -83,7 +83,7 @@
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("/images/provider05.png") no-repeat;
+    background: url("./provider05.png") no-repeat;
     background-size: cover;
 
     &:last-child {
