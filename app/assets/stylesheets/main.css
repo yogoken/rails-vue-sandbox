@@ -189,7 +189,7 @@ body[data-app="false"] {
   border-bottom: solid 1px #cdcdcd;
   overflow: hidden; }
   #store-header .icon {
-    background: url("smart_errand.png") no-repeat;
+    background: url("./smart_errand.png") no-repeat;
     background-size: cover;
     border: solid 1px #cdcdcd;
     border-radius: 21px;
@@ -240,7 +240,7 @@ body[data-app="false"] {
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("provider02.png") no-repeat;
+    background: url("/app/assets/images/provider02.png") no-repeat;
     background-size: cover; }
     #store-screenshot .screenshot_first:last-child {
       margin-right: 15px; }
@@ -248,7 +248,7 @@ body[data-app="false"] {
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("provider04.png") no-repeat;
+    background: url("./provider04.png") no-repeat;
     background-size: cover; }
     #store-screenshot .screenshot_second:last-child {
       margin-right: 15px; }
@@ -256,7 +256,7 @@ body[data-app="false"] {
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("user_001.png") no-repeat;
+    background: url("/assets/images/user_001.png") no-repeat;
     background-size: cover; }
     #store-screenshot .screenshot_third:last-child {
       margin-right: 15px; }
@@ -264,7 +264,7 @@ body[data-app="false"] {
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("user_003.png") no-repeat;
+    background: url("assets/images/user_003.png") no-repeat;
     background-size: cover; }
     #store-screenshot .screenshot_fourth:last-child {
       margin-right: 15px; }
@@ -272,7 +272,7 @@ body[data-app="false"] {
     display: inline-block;
     border: solid 1px #cdcdcd;
     margin-left: 15px;
-    background: url("provider05.png") no-repeat;
+    background: url("/images/provider05.png") no-repeat;
     background-size: cover; }
     #store-screenshot .screenshot_fifth:last-child {
       margin-right: 15px; }
